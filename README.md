@@ -241,7 +241,7 @@ sᴜᴘᴘᴏʀᴛɪɴɢ ᴠᴇʀsɪᴏɴ : lyfe00011 <br />
 ᴄʀᴇᴅɪᴛ ᴛᴏ :<a href="https://github.com/SPARK-SHADOW">SPARK-SHADOW</a> <br /> 
 
 ```js
-https://gist.github.com/candrania/089b8e913b90616f041becbb8b1fe6ac/raw/fc524cd4a2d7c171247fda1a1c55d770ff1abf3f/live%2520time
+https://gist.github.com/candrania/089b8e913b90616f041becbb8b1fe6ac
 ```
 
 ᴜsᴀɢᴇ ᴏғ ᴛʜɪs ᴘʟᴜɢɪɴ : You can know which time it is by this plugin <br /> 
